@@ -17,7 +17,7 @@ Screenshots of executed test cases with results from Playwright's HTML reports:
 
 | Test Case         | Preview                                     |
 |-------------------|---------------------------------------------|
-| Chatbot Logo UI   | [📷 View](./assets/chatbot-logo-report.jpg) |
+| Chatbot Logo UI   | [📷 View](./assets/chatbot-logo_report.jpg) |
 
 
 ## 🚀 How to Run
