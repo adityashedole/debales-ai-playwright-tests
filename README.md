@@ -16,7 +16,7 @@ All tests run at 1366x768 to match standard laptop screen size.
 Screenshots of executed test cases with results from Playwright's HTML reports:
 
 **Test Case:** Chatbot Logo UI  
-📷 ![Chatbot](./assets/chatbot-logo-report.JPG)
+📷 ![Chatbot](./assets/chatbot-logo_report.JPG)
 
 ## 🚀 How to Run
 
