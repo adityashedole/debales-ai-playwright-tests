@@ -1,6 +1,6 @@
 import { test , expect } from '@playwright/test'
 
-test('TC_UI_001 - Chatbot logo is displayed correctly', async ({page}) => {
+test('TC_UI_002 - Chatbot logo is displayed correctly', async ({page}) => {
   
   
   await page.goto('https://debales.ai/');
@@ -13,8 +13,5 @@ test('TC_UI_001 - Chatbot logo is displayed correctly', async ({page}) => {
 
   // Assertion - Check that logo is visible
   await expect(chatbotLogo).toBeVisible();
-
-
-  page.close();
 
 })
