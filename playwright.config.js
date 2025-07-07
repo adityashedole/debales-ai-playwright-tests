@@ -13,7 +13,7 @@ export default defineConfig({
       name: 'chromium',
       use: {
         viewport: { width: 1366, height: 768 },
-        headless: false,
+        
       },
     },
     {
